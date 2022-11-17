@@ -1,0 +1,12 @@
+{"properties": [
+  {
+    "name": "jwt.util.secret.key",
+    "type": "java.lang.String",
+    "description": "A description for 'jwt.util.secret.key'"
+  },
+  {
+    "name": "jwt.util.chrone.unit.number",
+    "type": "java.lang.String",
+    "description": "A description for 'jwt.util.chrone.unit.number'"
+  }
+]}
